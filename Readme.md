@@ -1,1 +1,2 @@
-README.DOC
+README.doc
+Added documentation
